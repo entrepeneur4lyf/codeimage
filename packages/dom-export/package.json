@@ -55,7 +55,7 @@
   ],
   "devDependencies": {
     "@types/node": "^18.16.17",
-    "happy-dom": "8.1.1",
+    "happy-dom": "20.0.2",
     "lint-staged": "^13.2.1",
     "prettier": "^2.8.7",
     "rimraf": "^3.0.2",
