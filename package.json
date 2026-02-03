@@ -76,7 +76,7 @@
     "chalk": "5.1.2",
     "cross-env": "^7.0.3",
     "enquirer": "2.3.6",
-    "eslint": "^8.38.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-solid": "^0.7.4",
