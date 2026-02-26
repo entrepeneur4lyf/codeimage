@@ -37,7 +37,7 @@
     "outdent": "^0.8.0",
     "postcss": "^8.4.16",
     "postcss-load-config": "^4.0.1",
-    "rollup": "^2.79.1",
+    "rollup": "^2.80.0",
     "typescript": "~5.3.2"
   },
   "dependencies": {
